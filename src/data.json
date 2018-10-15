@@ -1,0 +1,7 @@
+{
+  "features": [
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.86,39.07]},"properties":{"name":"阿尔当","code":31011100,"BelToRiver":"浑河", "value1":10, "value2":20,"value3":30,"value4":40}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[112.56,37.87]},"properties":{"name":"海阳","code":31011300,"BelToRiver":"浑河", "value1":18, "value2":25,"value3":37,"value4":43}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[111.36,36.67]},"properties":{"name":"暖泉前沟","code":31011500,"BelToRiver":"浑河", "value1":50, "value2":30,"value3":10,"value4":60}}
+  ]
+}
